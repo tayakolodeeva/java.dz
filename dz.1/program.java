@@ -2,8 +2,6 @@
 
 import java.util.Random;
 
-import Random;
-
 public class program {
     public static void main(String[] args) {
         

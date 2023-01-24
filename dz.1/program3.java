@@ -5,8 +5,6 @@
 import java.util.Arrays;
 import java.util.Random;
 
-import Random;
-
 public class program3 {
     public static void main(String[] args){
 
