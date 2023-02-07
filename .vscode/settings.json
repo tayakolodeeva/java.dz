@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "dz.5",
         "dz.4",
         "dz.3",
         "dz.1",
-        "dz.5"
+        "dz.6"
     ]
 }
